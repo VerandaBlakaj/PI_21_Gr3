@@ -1,0 +1,24 @@
+CACHE MANIFEST
+
+CACHE:
+Index.html
+index.css
+font-awesome-4.7.0/css/font-awesome.css
+Images/ecoconcept.jpg
+Images/eco_schools_logo.jpg
+Images/eco03.jpg
+Images/clean.jpg
+Images/airp.PNG
+Images/ps.jpg
+Images/facebook.png
+Images/instagram.png
+Images/pinterest.png
+Images/twitter.png
+Images/youtube.png
+Images/google-plus.png
+
+NETWORK:
+*
+
+FALLBACK:
+*.html offline.html
